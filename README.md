@@ -1,6 +1,6 @@
 # Monitoring and Auto-scaling
 
-![](./img/Cloud_watch_diagram.PNG)
+![](https://github.com/Mo0rBy/SRE_Monitoring/blob/main/img/Cloud_watch_diagram.png)
 
 ## Auto-scaling setup
 ### Creating a launch template
